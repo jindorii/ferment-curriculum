@@ -1,0 +1,17 @@
+{
+  "name": "정인숙 자연 발효 밥상 커리큘럼",
+  "short_name": "발효밥상 카드",
+  "description": "정인숙 자연 발효 밥상 유튜브 채널 516편 커리큘럼 영상 카드",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FAF8F4",
+  "theme_color": "#FAF8F4",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
